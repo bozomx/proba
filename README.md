@@ -2,4 +2,4 @@
 
 Editovanje fajla
 
-Izmene za mx linux
+Izmene za mx linux: nova izmena
